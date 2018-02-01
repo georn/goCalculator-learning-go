@@ -20,6 +20,7 @@ go build src/calculator.go
 ```
 
 Which will create an executable named `calculator`, to run the program just type:
+
 ```bash
 ./calculator
 ```
